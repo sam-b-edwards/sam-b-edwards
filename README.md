@@ -1,4 +1,4 @@
-```zsh
+```
 ~/github/sam-b-edwards on  main ❯ whoami
 Sam
 
