@@ -1,12 +1,13 @@
-```bash
-$ whoami
+```zsh
+~/github/sam-b-edwards on  main ❯ whoami
 Sam
 
-$ cat interests.txt
-code · design · random rabbit holes at 2am
+~/github/sam-b-edwards on  main ❯ cat interests.txt
+code ✦ design ✦ photography ✦ 2am project sessions
 
-$ status
-building things, breaking things, then building them better
+~/github/sam-b-edwards on  main ❯ ./status.sh
+probably working on something i'll never finish or maybe this time I will.
+
+~/github/sam-b-edwards on  main ❯ echo $VIBE
+probably vibe coding a random project
 ```
-
-*Probably working on something I'll never finish. Or maybe this time I will.*
