@@ -1,7 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello+World!;I'm+Sam+)](https://git.io/typing-svg)
+```bash
+$ whoami
+sam
 
-I like making cool stuff
+$ cat interests.txt
+code · design · random rabbit holes at 2am
 
+$ status
+building things, breaking things, then building them better
+```
+
+*Probably working on something I'll never finish. Or maybe this time I will.*
 
 
 <!--
