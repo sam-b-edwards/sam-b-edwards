@@ -1,13 +1,13 @@
 ```
-~/github/sam-b-edwards on main ❯ whoami
-Sam
+$ whoami
+sam
 
-~/github/sam-b-edwards on main ❯ cat interests.txt
+$ cat interests.txt
 code ✦ design ✦ photography ✦ 2am project sessions
 
-~/github/sam-b-edwards on main ❯ ./status.sh
+$ ./status.sh
 probably working on something i'll never finish or maybe this time I will.
 
-~/github/sam-b-edwards on main ❯ echo $VIBE
+$ echo $VIBE
 probably vibe coding a random project
 ```
